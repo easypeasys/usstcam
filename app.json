@@ -1,8 +1,10 @@
 {
   "pages": [
+    "pages/login",
     "pages/index",
     "pages/map/index",
     "pages/map/details",
+    "pages/map/exam",
     "pages/map/polyline",
     "pages/map/search",
     "pages/web-views/web-views"
