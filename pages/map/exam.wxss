@@ -6,13 +6,7 @@
   padding: 10px;
 }
 
-.top-swich {
-  background-color: #079df2;
-  height: 6vh;
-  color: white;
-  display: flex;
-  justify-content: space-around;
-}
+
 
 ::-webkit-scrollbar {
   width: 0;
@@ -20,13 +14,7 @@
   color: transparent;
 }
 
-.top-swich-btn {
-  background-color: none;
-  letter-spacing: 3rpx;
-  height: 65rpx;
-  color: #fff;
-  font-size: 30rpx;
-}
+
 
 .active {
   border-bottom: solid white;
